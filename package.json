@@ -1,0 +1,11 @@
+{
+  "name": "typescriptstarter",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Lisa starter seed for TypeScript projects.",
+  "license": "MIT",
+  "packageManager": "bun@1.3.11",
+  "dependencies": {
+    "@codyswann/lisa": "^2.166.2"
+  }
+}
