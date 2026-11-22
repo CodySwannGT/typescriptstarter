@@ -4,7 +4,7 @@ This repository is a public Lisa starter seed for TypeScript projects.
 
 It intentionally contains only the minimum PRD #692 seed:
 
-- `package.json` with `@codyswann/lisa`
+- `package.json` with `@codyswann/lisa` and the TypeScript dependency that selects Lisa's TypeScript templates
 - Bun as the package manager
 - `.gitignore`
 - this README
